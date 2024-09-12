@@ -11,5 +11,6 @@ using System.Threading.Tasks;
             Console.WriteLine("hello world");
             Console.WriteLine("hello FRIEND");
         Console.WriteLine("bandit");
+        Console.WriteLine("ya ne ponimay");
         }
     }

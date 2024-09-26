@@ -12,5 +12,9 @@ using System.Threading.Tasks;
             Console.WriteLine("hello FRIEND");
         Console.WriteLine("bandit");
         Console.WriteLine("ya ne ponimay");
+        int a = 10;
+        int b = 12;
+        int c = a * b;
+        Console.WriteLine("c = " + c);
         }
     }

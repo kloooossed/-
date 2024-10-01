@@ -1,7 +1,0 @@
-C:\Users\Михаил\source\repos\po\po\obj\Debug\po.csproj.AssemblyReference.cache
-C:\Users\Михаил\source\repos\po\po\obj\Debug\po.csproj.CoreCompileInputs.cache
-C:\Users\Михаил\source\repos\po\po\bin\Debug\po.exe.config
-C:\Users\Михаил\source\repos\po\po\bin\Debug\po.exe
-C:\Users\Михаил\source\repos\po\po\bin\Debug\po.pdb
-C:\Users\Михаил\source\repos\po\po\obj\Debug\po.exe
-C:\Users\Михаил\source\repos\po\po\obj\Debug\po.pdb
